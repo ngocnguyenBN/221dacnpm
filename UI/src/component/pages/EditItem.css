@@ -1,0 +1,16 @@
+
+.btn-success{
+	margin-left: 20px;
+}
+form{
+	margin: 30px 0;
+	border-radius: 17px;
+	background-color:#fff;
+	padding:15px 30px;
+}
+row{
+	background-color: #EAEAEA;
+}
+.img-fluid{
+	border: 2px groove #F57E7E;
+}

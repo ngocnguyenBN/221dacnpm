@@ -1,0 +1,407 @@
+commit 03eb4ceea83304acad77e7e0996412ffd2e2f3a5
+Merge: 42b21a8 dbee651
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Sat Nov 6 17:16:43 2021 +0700
+
+    Complete UI
+
+commit dbee6519fccc3f6a03344010d7a228a57b2a90b9
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Sat Nov 6 13:40:47 2021 +0700
+
+    Check ThienHoang
+
+commit 77dc0430abfca55a390db5c555cefda4fd2bfdf5
+Merge: 508125a 96b7771
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Sat Nov 6 13:39:30 2021 +0700
+
+    Merge branch 'ThienHoang' of https://github.com/tienminh0801/211dacnpm into ThienHoang
+
+commit 42b21a859fc8ef9fe397d811bd328c4e6b33ad7d
+Merge: c17f60d d1117f0
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Sat Nov 6 13:39:20 2021 +0700
+
+    Check TienLe Done
+
+commit d1117f087f7562ffb81ac54ad3973963ba883975
+Merge: f1b3210 13a3e86
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Sat Nov 6 13:33:23 2021 +0700
+
+    Check TienLe
+
+commit c17f60d1044d53121bb29c695baf403c104e458e
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Sat Nov 6 13:30:47 2021 +0700
+
+    Check quan
+
+commit 13a3e865d110fd953d71179ffb3dd1e7bbf49242
+Author: TienLe <74912575+Ti4nL4@users.noreply.github.com>
+Date:   Sat Nov 6 13:09:20 2021 +0700
+
+    Add files via upload
+
+commit 4d68415e6c6ac24af95e664d5281b94cbf19891d
+Author: TienLe <74912575+Ti4nL4@users.noreply.github.com>
+Date:   Sat Nov 6 12:31:51 2021 +0700
+
+    Add files via upload
+
+commit 96b7771c48f839d5ae34096e6756a196208443bb
+Author: theksbd <93083446+theksbd@users.noreply.github.com>
+Date:   Sat Nov 6 10:33:04 2021 +0700
+
+    Add files via upload
+
+commit e0b1bad974c9c47758ab54f5831244f6484bfecc
+Author: quan-nguyen-thuc06 <quannguyenthuc06@gmail.com>
+Date:   Sat Nov 6 05:19:17 2021 +0700
+
+    Update RenderEditItem.js
+
+commit 1ac8ebd246f8f4e5be7562f58f42ec52dadd06ff
+Author: quan-nguyen-thuc06 <quannguyenthuc06@gmail.com>
+Date:   Sat Nov 6 05:12:12 2021 +0700
+
+    Update ManagerItem.js, EditItem and add RenderEditItem.js
+
+commit 1f8f6645c80d3b17645c879eb0ccd20be3299d38
+Author: quan-nguyen-thuc06 <quannguyenthuc06@gmail.com>
+Date:   Sat Nov 6 04:16:57 2021 +0700
+
+    update AddItem.js
+
+commit a91ed071c65824b2b8ec6a4caca66e1a07614414
+Author: quan-nguyen-thuc06 <quannguyenthuc06@gmail.com>
+Date:   Sat Nov 6 03:46:56 2021 +0700
+
+    Change Admin.js
+
+commit e9c4618cf0e5a3bac554dee8248610d7867f498d
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Sat Nov 6 02:51:59 2021 +0700
+
+    Fix ambiguous in pass data from ProductItem to ProductInfor
+
+commit 1d1752f6e84d7d13ebcf3a9189cffa2bd825e721
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Sat Nov 6 02:36:14 2021 +0700
+
+    Update Comment intoInfor component
+
+commit f702c766961ab7c5614cf80ebb360ddeabfc3416
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Sat Nov 6 02:19:12 2021 +0700
+
+    Update feature Search
+
+commit 99a0e6db8b5538ae14f5a83dacf96bcd80260b8a
+Merge: b0da74d f1b3210
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Sat Nov 6 01:37:09 2021 +0700
+
+    Link Components
+
+commit b0da74d39f77860e78bc7dbaf2f81df31ce34890
+Merge: 4345bb8 684ed2a
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Sat Nov 6 00:22:01 2021 +0700
+
+    Merge branch 'TienMinh' into Official
+
+commit f1b32107e0f9ed12dab96efdf5cc89ce41b8ba97
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Sat Nov 6 00:20:10 2021 +0700
+
+    Check
+
+commit 4345bb8bd0831dff796bbbc61a029a7a8182e530
+Merge: 8f534e4 f70e5ee
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Fri Nov 5 23:33:34 2021 +0700
+
+    Test
+
+commit 8f534e4bead9a5075c5b2096260040a17e9ea74f
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Fri Nov 5 23:21:06 2021 +0700
+
+    Test
+
+commit f70e5ee9962d9770c209e30007ba97059e863283
+Merge: 81b14c0 d1e1935
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Fri Nov 5 23:08:52 2021 +0700
+
+    Test
+
+commit 4dd9c369003875812368c0751212a319036ea31e
+Merge: 01586a9 dfa94e5
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Fri Nov 5 22:55:07 2021 +0700
+
+    Demo
+
+commit d1e1935b11c4e90d8248d1ee5bbbdaa1fc412365
+Author: quan-nguyen-thuc06 <quannguyenthuc06@gmail.com>
+Date:   Fri Nov 5 22:48:14 2021 +0700
+
+    Update package
+
+commit dfa94e5a71883c5d7a9530236c0f996f68c90529
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Fri Nov 5 22:29:02 2021 +0700
+
+    Check
+
+commit 684ed2a2217aedd10625aa092d5e25eebb2421a1
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Fri Nov 5 22:13:17 2021 +0700
+
+    Update Comment
+
+commit c3607f77cc1a824cfcd6690effb66abed6941959
+Author: TienLe <74912575+Ti4nL4@users.noreply.github.com>
+Date:   Fri Nov 5 17:04:40 2021 +0700
+
+    Add files via upload
+
+commit 7ebea2080b8384e099b688f55c7a046db1c14134
+Author: TienLe <74912575+Ti4nL4@users.noreply.github.com>
+Date:   Fri Nov 5 16:54:43 2021 +0700
+
+    Add files via upload
+
+commit 01586a946f2ccad7cac9980d54f087f458db24c2
+Merge: e39f5b2 237550c
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Fri Nov 5 16:49:19 2021 +0700
+
+    Check
+
+commit e39f5b2f28f702ca66b0fcf31a11a4a3828d67a1
+Merge: 6b94358 e98b746
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Fri Nov 5 16:10:23 2021 +0700
+
+    Check
+
+commit 237550c31dc6b5dce7ac08ad77fbbd4e81ea5fd3
+Author: TienLe <74912575+Ti4nL4@users.noreply.github.com>
+Date:   Fri Nov 5 15:52:12 2021 +0700
+
+    Add files via upload
+
+commit 6b943589b642d32e8203d69a92556abcc2033679
+Merge: 1c98dad ee63a74
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Fri Nov 5 15:18:11 2021 +0700
+
+    Update Branch TienLe to Branch Official
+
+commit e98b746f47b29353cbe7762dfe403535d3f86e4b
+Merge: a93edd0 14e194c
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Fri Nov 5 15:15:14 2021 +0700
+
+    Merge branch 'TienMinh' of https://github.com/tienminh0801/211dacnpm into TienMinh
+
+commit a93edd02483e784b643baced228cc5dd70344665
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Fri Nov 5 15:13:42 2021 +0700
+
+    Update feature Search of Header
+
+commit 55e58f382274d5eb26ea9dc6e0579d870345a023
+Author: quan-nguyen-thuc06 <quannguyenthuc06@gmail.com>
+Date:   Fri Nov 5 14:46:09 2021 +0700
+
+    Update AddItem.js, EditItem.css, EditItem.js and add ManagerItem.js/css Admin.js
+
+commit ee63a7445be44e619732b48cfb6c5e61f9900fdf
+Author: TienLe <74912575+Ti4nL4@users.noreply.github.com>
+Date:   Fri Nov 5 14:00:44 2021 +0700
+
+    Add files via upload
+
+commit dbab913e94c64fb93c31c0c661a4ddc0077a4437
+Author: TienLe <74912575+Ti4nL4@users.noreply.github.com>
+Date:   Fri Nov 5 11:28:01 2021 +0700
+
+    Add files via upload
+
+commit 2d6148c1d793733cf044ecfbdcf723e21bd3110f
+Author: TienLe <74912575+Ti4nL4@users.noreply.github.com>
+Date:   Fri Nov 5 03:02:47 2021 +0700
+
+    Add files via upload
+
+commit 14e194cce14238360aee310b21f5b02cf2d3cc02
+Author: TienLe <74912575+Ti4nL4@users.noreply.github.com>
+Date:   Fri Nov 5 03:02:01 2021 +0700
+
+    Add files via upload
+
+commit a30fda30e52fc7e9e33d8d96e5e4b1d7bfeeb8dc
+Author: TienLe <74912575+Ti4nL4@users.noreply.github.com>
+Date:   Fri Nov 5 03:01:42 2021 +0700
+
+    Add files via upload
+
+commit 1c98dadb5b8b6e7ab7f2312cc8a8cd04b8ed3422
+Merge: 4c52eca 004ad8d
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Fri Nov 5 02:03:13 2021 +0700
+
+    Check task of TienLe
+
+commit 4c52eca1b1c59862e8c8b678664bb9856bdf3401
+Merge: ff5dcdc 78d5312
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Fri Nov 5 01:58:36 2021 +0700
+
+    Merge remote-tracking branch 'origin/TienLe' into Official
+
+commit 004ad8d9251f5e163b26210038d5c190f14613bc
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Fri Nov 5 01:58:09 2021 +0700
+
+    Update ProductList
+
+commit fa742d268ec49a8418d3670d9eca081b48c1e37e
+Merge: eba64ef 565693f
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Fri Nov 5 01:55:05 2021 +0700
+
+    Update
+
+commit eba64ef0c49171ba6e82c8e6c72a54eb18a1635a
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Fri Nov 5 01:51:39 2021 +0700
+
+    Update
+
+commit 565693f62ad2702e32a673fb94f081762e5a4644
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Fri Nov 5 01:50:00 2021 +0700
+
+    Update ProductList
+
+commit 78d53129421af610788d193d68cfe086c9bd0065
+Author: TienLe <74912575+Ti4nL4@users.noreply.github.com>
+Date:   Fri Nov 5 00:44:48 2021 +0700
+
+    Add files via upload
+
+commit ff5dcdc6bac68be4c6f5c050af92db74b84f51af
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Thu Nov 4 23:58:08 2021 +0700
+
+    Fix Conflict
+
+commit e6a4e7e96bae1a756040bdc1b2c4d45138c42566
+Merge: 22a5f29 81b14c0
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Thu Nov 4 23:50:34 2021 +0700
+
+    Merge branch Quan
+
+commit 22a5f2953f10c7c592e084210df4a7e52b87ab09
+Merge: 008a941 508125a
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Thu Nov 4 23:49:50 2021 +0700
+
+    Merge branch TienMinh and ThienHoang
+
+commit 508125a491e389b4b8b5d2151c9137d1ce68230c
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Thu Nov 4 23:46:57 2021 +0700
+
+    Check
+
+commit 81b14c03fb9b1b464eda77d7e6dc9ec6e4771d45
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Thu Nov 4 20:31:47 2021 +0700
+
+    Check
+
+commit ed5a7c8a4a1758ff956b9ea4d9de4b59dbae0e62
+Author: quan-nguyen-thuc06 <quannguyenthuc06@gmail.com>
+Date:   Thu Nov 4 04:26:54 2021 +0700
+
+    add AddItem.js
+
+commit 7f2f4016752aad944d2b60a311d7633efab55a4a
+Author: quan-nguyen-thuc06 <quannguyenthuc06@gmail.com>
+Date:   Thu Nov 4 04:18:04 2021 +0700
+
+    add EditItem.js, EditItem.css, update Header.js
+
+commit 82f718882a623ab9345d1efc2502b9b8e58b4c92
+Author: theksbd <93083446+theksbd@users.noreply.github.com>
+Date:   Wed Nov 3 21:18:09 2021 +0700
+
+    Update OrderAdmin.js
+
+commit 178bba2ac6451f4f7287a7323ca1c04746c36b31
+Author: theksbd <93083446+theksbd@users.noreply.github.com>
+Date:   Wed Nov 3 21:17:22 2021 +0700
+
+    Add files via upload
+
+commit 1d2281c78d8db16acac9492c0a9ecd2c718be9e5
+Author: theksbd <93083446+theksbd@users.noreply.github.com>
+Date:   Wed Nov 3 21:16:48 2021 +0700
+
+    Add files via upload
+
+commit 008a941a6195bca7083a6acf1d7695c7c0cf6ec3
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Wed Nov 3 02:45:35 2021 +0700
+
+    Header and Footer Update
+
+commit 7df17841c08f3da25e0e682f3bdc7f948ab63dc8
+Author: theksbd <93083446+theksbd@users.noreply.github.com>
+Date:   Tue Nov 2 15:12:43 2021 +0700
+
+    Add files via upload
+
+commit ff36afff67637fdc2f2dc2da71254f9f7ffdb30d
+Author: theksbd <93083446+theksbd@users.noreply.github.com>
+Date:   Tue Nov 2 15:11:56 2021 +0700
+
+    Update App.js
+
+commit c3e934937b4e0c04e6e9662e2078238426359fde
+Author: theksbd <93083446+theksbd@users.noreply.github.com>
+Date:   Tue Nov 2 15:11:21 2021 +0700
+
+    Update index.html
+
+commit 884cffb99d502ec94f6594168678315d87db6c45
+Author: theksbd <93083446+theksbd@users.noreply.github.com>
+Date:   Tue Nov 2 15:10:47 2021 +0700
+
+    Update Header.js
+
+commit 36f14716a62c48f3f14fe7873416ad358ca2e522
+Author: theksbd <93083446+theksbd@users.noreply.github.com>
+Date:   Tue Nov 2 15:03:55 2021 +0700
+
+    Add files via upload
+
+commit e6ec71e9780b90c746689357b9b25d08e931fe17
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Tue Nov 2 11:09:55 2021 +0700
+
+    Update
+
+commit 4cbc85cdd39f4af6a373097c5fe11f1d35f2844c
+Author: TienMinh <tienminh0801@gmail.com>
+Date:   Tue Nov 2 02:24:51 2021 +0700
+
+    Almost done ProductList and Login
